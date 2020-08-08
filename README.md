@@ -1,3 +1,3 @@
 # Remindeer
 
-This is a new verwsion
+This is a new version
